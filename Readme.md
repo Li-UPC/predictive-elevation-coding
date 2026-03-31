@@ -1,4 +1,4 @@
-# CDI Compressor
+# Lossless heightmap compressor
 
 Lossless compressor for 2D elevation grids (heightmaps). It combines a **Lagrange predictor** with **adaptive arithmetic coding** to achieve high compression ratios on integer matrices.
 
