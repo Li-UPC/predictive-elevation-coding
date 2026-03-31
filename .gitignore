@@ -1,0 +1,21 @@
+# Compiled binary
+compressor
+src/compressor
+
+# PDF
+*.pdf
+
+# Build artifacts
+*.o
+.deps/
+
+# Editor backups
+*~
+*.swp
+.Rhistory
+
+# Test outputs
+*.cdi
+decom*
+recuperado*
+salida*
